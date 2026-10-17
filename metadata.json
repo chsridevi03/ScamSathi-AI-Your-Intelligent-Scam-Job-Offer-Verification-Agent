@@ -1,0 +1,6 @@
+{
+  "name": "ScamSathi AI — Intelligent Scam Verification Agent",
+  "description": "AI-powered scam verification agent for students and job seekers to investigate suspicious job offers, internships, scholarship announcements, and recruitment messages with NVIDIA Nemotron, evidence-based web research, and bilingual English/Telugu analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

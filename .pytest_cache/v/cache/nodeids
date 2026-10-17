@@ -1,0 +1,13 @@
+[
+  "scamsathi-ai/tests/test_analysis.py::test_legitimate_internship_categorization",
+  "scamsathi-ai/tests/test_analysis.py::test_prompt_injection_containment",
+  "scamsathi-ai/tests/test_analysis.py::test_report_service_text_and_pdf_generation",
+  "scamsathi-ai/tests/test_analysis.py::test_suspicious_payment_demand_triggers_high_concern",
+  "scamsathi-ai/tests/test_analysis.py::test_telugu_support_generation",
+  "scamsathi-ai/tests/test_validation.py::test_official_source_detection",
+  "scamsathi-ai/tests/test_validation.py::test_private_network_urls_blocked",
+  "scamsathi-ai/tests/test_validation.py::test_prompt_injection_detection",
+  "scamsathi-ai/tests/test_validation.py::test_pydantic_investigation_report_structure",
+  "scamsathi-ai/tests/test_validation.py::test_risk_assessment_category_validation",
+  "scamsathi-ai/tests/test_validation.py::test_safe_public_urls_allowed"
+]
